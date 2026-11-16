@@ -67,9 +67,9 @@
 【3Dプリンターフィラメント】<br>
 ・フィラメント（PETG/PLA）：<br>
 　-PLAベーシック<br>
-   https://jp.store.bambulab.com/products/pla-basic-filament
-　-PETGベーシック
-   https://jp.store.bambulab.com/products/petg-basic
+   https://jp.store.bambulab.com/products/pla-basic-filament<br>
+　-PETGベーシック<br>
+   https://jp.store.bambulab.com/products/petg-basic<br>
 ※色はお好みで
 
 【和楽器専門パーツ・消耗品・皮】
