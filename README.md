@@ -60,13 +60,13 @@
 ------------------------------------------------------------------------
 3Dプリンターで製作する津軽三味線の製作に必要な材料の調達先一覧です。
 
-【3Dプリンター】
+【3Dプリンター】<br>
 ・使用していたプリンターであるBambu Lab X1 Carbonは販売終了しているため、後継機に当たるものです。<br>
 　https://jp.store.bambulab.com/products/x2d?from=home_web_x2d_detail
 
-【3Dプリンターフィラメント】
-・フィラメント（PETG/PLA）：
-　-PLAベーシック
+【3Dプリンターフィラメント】<br>
+・フィラメント（PETG/PLA）：<br>
+　-PLAベーシック<br>
    https://jp.store.bambulab.com/products/pla-basic-filament
 　-PETGベーシック
    https://jp.store.bambulab.com/products/petg-basic
