@@ -66,7 +66,7 @@
 
 【3Dプリンターフィラメント】<br>
 ・フィラメント（PETG/PLA）：<br>
-  ・PLAベーシック<br>
+　-PLAベーシック<br>
    https://jp.store.bambulab.com/products/pla-basic-filament<br>
 　-PETGベーシック<br>
    https://jp.store.bambulab.com/products/petg-basic<br>
