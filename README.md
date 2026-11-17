@@ -92,7 +92,7 @@
   https://www.amazon.co.jp/dp/B0GG4J2K2B
 ### 【紙ヤスリ】
 * 耐水ペーパー(800番、1200番を含むセット)  
-  https://www.amazon.co.jp/10%E7%A8%AE40%E6%9E%9A%E3%82%BB%E3%83%83%E3%83%88-%E3%82%B5%E3%83%B3%E3%83%89%E3%83%9A%E3%83%BC%E3%83%91%E3%83%BC-%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC3%E5%B9%B4%E4%BF%9D%E8%A8%BC-%E6%9C%A8%E5%B7%A5DIY%E4%BD%9C%E6%A5%AD%E3%81%AB-%E9%87%91%E5%B1%9E%E7%A3%A8%E3%81%8D-IROKCAKPT/dp/B098MHRVR1/
+  https://www.amazon.co.jp/dp/B098MHRVR1
 
 ### 【はんだごて】(あると便利なもの)
 * はんだごてセット  
