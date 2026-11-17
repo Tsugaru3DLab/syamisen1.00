@@ -96,7 +96,7 @@
 
 ### 【はんだごて】(あると便利なもの)
 * はんだごてセット  
-  https://www.amazon.co.jp/Lesimoll-OFF%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81%E4%BB%98%E3%81%8D-5%E3%81%A4%E7%84%A1%E9%85%B8%E7%B4%A0%E9%8A%85%E3%81%93%E3%81%A6%E5%85%88-%E9%9B%BB%E5%AD%90%E4%BD%9C%E6%A5%AD%E3%83%BB%E9%9B%BB%E6%B0%97DIY%E7%94%A8-%E5%AE%B6%E9%9B%BB%E4%BF%AE%E7%90%86%E3%83%BB%E5%9B%9E%E8%B7%AF%E5%9F%BA%E6%9D%BF%E3%83%BB%E5%9F%BA%E7%9B%A4%E3%81%AA%E3%81%A9%E3%81%AB/dp/B0CM1WJB5X/
+  https://www.amazon.co.jp/dp/B0CM1WJB5X
 
 ------------------------------------------------------------------------
 ## 3. 製作方法
