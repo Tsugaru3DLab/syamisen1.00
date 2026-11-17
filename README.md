@@ -83,7 +83,7 @@
 * 弦  
   https://www.amazon.co.jp/dp/B006J24TT6?ref=ppx_yo2ov_dt_b_fed_asin_title
 * 透明テープ(和紙用)  
-  https://www.amazon.co.jp/%E3%80%90JINKEI%E3%80%91-OPP%E3%83%86%E3%83%BC%E3%83%97-%E3%80%8C%E9%95%B7%E3%81%95150%EF%BD%8D%E3%80%8D-48%C3%97150m-%E5%B9%8548mm/dp/B0GWSKCQHC/
+  https://www.amazon.co.jp/dp/B0GWSKCQHC
 * 結束バンド、瞬間接着剤  
   100円ショップやホームセンターなどで購入。
   
