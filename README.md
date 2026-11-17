@@ -75,6 +75,7 @@
   https://www.wagakki-ichiba.com/fuzoku20008.htm
 * 皮
   * 和紙
+    https://www.amazon.co.jp/dp/B07BRR7BKB
   * 牛皮  
     https://www.creema.jp/item/20460380/detail
   * 山羊皮  
